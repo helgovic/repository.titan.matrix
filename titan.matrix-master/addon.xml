@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="titan.matrix" version="1.0.0" name="Titan Matrix repository" provider-name="helgovic">
+<addon id="titan.matrix-master" version="1.0.0" name="Titan Matrix repository" provider-name="helgovic">
 	
 	<extension point="xbmc.addon.repository" name="Titan Matrix repository">
 		<info compressed="false">https://raw.githubusercontent.com/helgovic/titan.matrix/master/addons.xml</info>
