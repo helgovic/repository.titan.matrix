@@ -268,7 +268,7 @@
 		<website />
 		<source>https://github.com/marcelveldt/script.skin.helper.colorpicker</source>
 	</extension>
-</addon><addon id="script.skin.helper.backgrounds" name="Skin Helper Service Backgrounds" provider-name="marcelveldt" version="1.0.33">
+</addon><addon id="script.skin.helper.backgrounds" name="Skin Helper Service Backgrounds" provider-name="marcelveldt" version="1.0.34">
 	<requires>
       <import addon="xbmc.python" version="3.0.0"/>
     <import addon="xbmc.addon" version="14.0.1"/>
@@ -339,7 +339,7 @@
 		<import addon="script.skinshortcuts" version="1.0.20"/>
 		<import addon="script.skin.helper.service" version="1.1.26"/>
         <import addon="script.skin.helper.widgets" version=""/>
-        <import addon="script.skin.helper.backgrounds" version="1.0.39"/>
+        <import addon="script.skin.helper.backgrounds" version="1.0.34"/>
         <import addon="resource.uisounds.titan.modern" version="1.0.0"/>
         <import addon="resource.images.skinbackgrounds.titanium" version="1.0.0"/>
         <import addon="resource.images.skinicons.wide" version="1.0.0"/>
