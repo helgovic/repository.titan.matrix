@@ -247,7 +247,6 @@
 </addon><addon id="script.skin.helper.skinbackup" name="Skin Helper Service Skin Backup" provider-name="marcelveldt" version="1.0.20">
 	<requires>
       <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="resource.skinthemes.titan" version="1.0.2"/>
     <import addon="xbmc.addon" version="14.0.1"/>
 	</requires>
     <extension library="default.py" point="xbmc.python.script" />
