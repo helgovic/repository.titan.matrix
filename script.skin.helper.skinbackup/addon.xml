@@ -3,7 +3,7 @@
 	<requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="xbmc.addon" version="14.0.1"/>
-    <import addon="resource.skinthemes.titan" version="1.0.2"/>
+#    <import addon="resource.skinthemes.titan" version="1.0.2"/>
   </requires>
     <extension point="xbmc.python.script" library="default.py" />
 	<extension library="service.py" point="xbmc.service" start="login" />
