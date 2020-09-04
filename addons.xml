@@ -413,7 +413,7 @@
 </addon><addon id="script.module.cherrypy" name="CherryPy Kodi module" provider-name="marcelveldt, CherryPy Team" version="11.0.1">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.six" version="0.1.3.1" />
+        <import addon="script.module.six" version="1.14.0" />
     </requires>
     <extension library="lib" point="xbmc.python.module" />
     <extension point="xbmc.addon.metadata">
